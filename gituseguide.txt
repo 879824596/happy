@@ -1,1 +1,5 @@
 git  use  guide 
+
+git config --global user.email "879824596@qq.com"
+
+git config --global user.name "879824596"
